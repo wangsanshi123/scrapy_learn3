@@ -1,1 +1,3 @@
-# scrapy_learn3
+环境要求：
+python2.7
+scrapy
