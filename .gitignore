@@ -1,0 +1,4 @@
+*.pyc
+stop/
+.idea/
+.scrapy/
